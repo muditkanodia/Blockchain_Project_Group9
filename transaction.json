@@ -1,0 +1,29 @@
+#add_transaction()
+{
+    "sender": "",
+    "receiver": "",
+    "amount": ,
+    "sender_pan": "",
+    "receiver_pan": "",
+    "otp_verify": ""
+}
+
+#otp_gen()
+{
+    "Pan_ID": ""
+}
+
+
+##examples
+{
+    "sender": "Mike",
+    "receiver": "Harvey",
+    "amount": 1 ,
+    "sender_pan": "BAJPC4350M",
+    "receiver_pan": "DAJPC4150P",
+    "otp_verify": ""
+}
+
+{
+    "Pan_ID": "BAJPC4350M"
+}
